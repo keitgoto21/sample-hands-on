@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/app",
-      "destination": "/login",
+      "source": "/",
+      "destination": "/app/login",
       "permanent": false
     }
   ]
