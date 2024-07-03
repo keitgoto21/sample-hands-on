@@ -1,9 +1,6 @@
 {
   "redirects": [
-    {
-      "source": "/app/page.tsx",
-      "destination": "/app/login/page.tsx",
-      "permanent": false
-    }
+    { "source": "/public/next.svg", "destination": "/app/login/page.tsx", "permanent": false },
+    { "source": "/public/vercel.svg", "destination": "/app/login/page.tsx" "permanent": false }
   ]
 }
