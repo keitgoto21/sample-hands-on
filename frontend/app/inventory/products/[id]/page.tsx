@@ -99,7 +99,7 @@ export default function Page({ params }: {
                 });
                 setData(inventoryData);
             });
-    }, [open])
+    }, [open, params.id])
 
     const onSubmit = (event: any): void => {
         const data: FormData = {
