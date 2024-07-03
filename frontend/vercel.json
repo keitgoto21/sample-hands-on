@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/public/next.svg", "destination": "/app/login/page.tsx", "permanent": false }
+    { "source": "/frontend", "destination": "/app/login/page.tsx", "permanent": false }
   ]
 }
