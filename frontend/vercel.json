@@ -1,5 +1,0 @@
-{
-  "redirects": [
-    { "source": "/frontend", "destination": "/app/login/page.tsx", "permanent": false }
-  ]
-}
